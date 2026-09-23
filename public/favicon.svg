@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Zalkhani Law Firm</title>
+  <rect width="64" height="64" rx="14" fill="#0f172a" />
+  <path d="M18 16h28v4H34v24h12v4H18v-4h12V20H18z" fill="#d4af37" />
+  <text x="32" y="39" fill="#f8fafc" font-family="Georgia, serif" font-size="18" font-weight="700" text-anchor="middle">ZL</text>
+</svg>
