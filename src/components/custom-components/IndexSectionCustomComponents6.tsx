@@ -99,7 +99,20 @@ const IndexSectionCustomComponents6: React.FC = () => {
       </div>
     </div>
     <div className="border-t border-slate-800 mt-12 pt-8 flex flex-col md:flex-row items-center justify-between gap-4">
-      <p className="text-slate-500 text-sm">© 2026 Zalkhani Law Firm. All rights reserved.</p>
+      <div className="text-center md:text-left">
+        <p className="text-slate-500 text-sm">© 2026 Zalkhani Law Firm. All rights reserved.</p>
+        <p className="mt-1 text-slate-600 text-xs">
+          Site by{' '}
+          <a
+            href="https://webeworx.com"
+            target="_blank"
+            rel="noreferrer"
+            className="text-slate-500 hover:text-amber-500 transition-colors"
+          >
+            WebeWorx
+          </a>
+        </p>
+      </div>
       <p className="text-slate-600 text-xs footer-disclaimer" data-en="Licensed by the Syrian Bar Association. Attorney advertising." data-ar="مرخص من نقابة المحامين السورية. إعلان المحاماة." data-fr="Autorisé par le Barreau syrien. Publicité d'avocat.">Licensed by the Syrian Bar Association. Attorney advertising.</p>
     </div>
   </div>
